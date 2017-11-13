@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title></title>
-</head>
-<body>
+
 <table border="1" style="border-collapse:collapse">
 <tr><th>LOGICALREF</th><th>URUNKOD</th><th>ACIKLAMA</th><th>BIRIM</th><th>BARKOD</th><th>UNITSETREF</th><th>LINENR</th><th>MAINUNIT</th><th>BOLEN</th><th>CARPAN</th><th>BIRIMREF</th><th>DOVIZ</th><th>FIYAT</th><th>DOVIZREF</th><th>PTYPE</th><th>PRICE</th><th>VAT</th><th>INVENNO</th><th>ONHAND</th><th>ACTIVE</th></tr>
 <tr><td>169622</td><td>ALTYIL.MZK-439</td><td>A.YILDIZ NEY MÜZİK DEFTERİ A4 SPİRALLİ 32 YPR</td><td>DZ</td><td>8697853244396</td><td>102</td><td>1</td><td>1</td><td>1</td><td>1</td><td>198</td><td>TL</td><td>34</td><td>160</td><td>2</td><td>34</td><td>8</td><td>0</td><td>0</td><td>0</td></tr>
@@ -258,5 +253,3 @@
 <tr><td>190955</td><td>KM.HLD12DPK</td><td>Amos dry highlighter fosforlu kalem pembe 12 li</td><td>PAKET</td><td>8802946506415</td><td>110</td><td>2</td><td>0</td><td>1</td><td>8</td><td>223</td><td>TL</td><td>283.2</td><td>160</td><td>2</td><td>35.4</td><td>18</td><td>0</td><td>3</td><td>0</td></tr>
 <tr><td>204718</td><td>SİM.869744236192</td><td>SİM AJANDA TERMO DERİ 14X20 </td><td>ADET</td><td>8697442361923</td><td>91</td><td>1</td><td>1</td><td>1</td><td>1</td><td>162</td><td>TL</td><td>6.65</td><td>160</td><td>2</td><td>6.65</td><td>18</td><td>0</td><td>86</td><td>0</td></tr>
 <tr><td>204718</td><td>SİM.869744236192</td><td>SİM AJANDA TERMO DERİ 14X20 </td><td>ADET</td><td>8697442361923</td><td>91</td><td>1</td><td>1</td><td>1</td><td>1</td><td>162</td><td>TL</td><td>6.65</td><td>160</td><td>2</td><td>6.65</td><td>18</td><td>0</td><td>86</td><td>0</td></tr></table>
-</body>
-</html>
