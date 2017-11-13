@@ -1,4 +1,3 @@
-
 <table border="1" style="border-collapse:collapse">
 <tr><th>LOGICALREF</th><th>URUNKOD</th><th>ACIKLAMA</th><th>BIRIM</th><th>BARKOD</th><th>UNITSETREF</th><th>LINENR</th><th>MAINUNIT</th><th>BOLEN</th><th>CARPAN</th><th>BIRIMREF</th><th>DOVIZ</th><th>FIYAT</th><th>DOVIZREF</th><th>PTYPE</th><th>PRICE</th><th>VAT</th><th>INVENNO</th><th>ONHAND</th><th>ACTIVE</th></tr>
 <tr><td>169622</td><td>ALTYIL.MZK-439</td><td>A.YILDIZ NEY MÜZİK DEFTERİ A4 SPİRALLİ 32 YPR</td><td>DZ</td><td>8697853244396</td><td>102</td><td>1</td><td>1</td><td>1</td><td>1</td><td>198</td><td>TL</td><td>34</td><td>160</td><td>2</td><td>34</td><td>8</td><td>0</td><td>0</td><td>0</td></tr>
